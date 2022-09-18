@@ -2,4 +2,4 @@
 
 webpage that holds a collection of CSS snippets
 
-[Title](./assets/Screenshot-1.png)
+(./assets/Screenshot-1.png)
