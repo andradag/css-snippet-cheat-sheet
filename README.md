@@ -2,4 +2,4 @@
 
 webpage that holds a collection of CSS snippets
 
-(./assets/Screenshot-1.png)
+![Alt text](./assets/Screenshot-1.png "Title")
